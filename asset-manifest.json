@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/patientator/static/js/main.1ad28ad6.chunk.js",
+    "main.js.map": "/patientator/static/js/main.1ad28ad6.chunk.js.map",
+    "runtime-main.js": "/patientator/static/js/runtime-main.9822232d.js",
+    "runtime-main.js.map": "/patientator/static/js/runtime-main.9822232d.js.map",
+    "static/css/2.9953dd1d.chunk.css": "/patientator/static/css/2.9953dd1d.chunk.css",
+    "static/js/2.d8e31bb6.chunk.js": "/patientator/static/js/2.d8e31bb6.chunk.js",
+    "static/js/2.d8e31bb6.chunk.js.map": "/patientator/static/js/2.d8e31bb6.chunk.js.map",
+    "index.html": "/patientator/index.html",
+    "static/css/2.9953dd1d.chunk.css.map": "/patientator/static/css/2.9953dd1d.chunk.css.map",
+    "static/js/2.d8e31bb6.chunk.js.LICENSE.txt": "/patientator/static/js/2.d8e31bb6.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/patientator/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9822232d.js",
+    "static/css/2.9953dd1d.chunk.css",
+    "static/js/2.d8e31bb6.chunk.js",
+    "static/js/main.1ad28ad6.chunk.js"
+  ]
+}
